@@ -40,6 +40,6 @@ int main(){
 	Dice die;
 	test = average(Rolls, 2);
 	cout << test << endl;
-	test = average(die, 2);
+	test = average(die, 100);
 	cout << test;
 }
